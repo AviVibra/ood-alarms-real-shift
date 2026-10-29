@@ -64,4 +64,4 @@ Part 3 of a research arc on benchmark-vs-reality collapse:
 - Part 1 — tabular robustness study: [link to repo 1]
 - Part 2 — the 93%→19% deforestation deployment study: [link to repo 2]
 
-Citation DOI (Zenodo): [add after Zenodo upload]
+10.5281/zenodo.23778206
